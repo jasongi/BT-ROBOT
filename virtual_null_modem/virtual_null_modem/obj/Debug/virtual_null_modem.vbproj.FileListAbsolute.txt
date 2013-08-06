@@ -1,0 +1,24 @@
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\bin\Debug\virtual_null_modem.exe
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\bin\Debug\virtual_null_modem.pdb
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\bin\Debug\virtual_null_modem.xml
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\virtual_null_modem.Form1.resources
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\virtual_null_modem.Resources.resources
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\virtual_null_modem.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\virtual_null_modem.exe
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\virtual_null_modem.xml
+C:\Documents and Settings\Eirik\Local Settings\Application Data\Temporary Projects\virtual_null_modem\obj\Debug\virtual_null_modem.pdb
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\virtual_null_modem.Form1.resources
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\virtual_null_modem.Resources.resources
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\virtual_null_modem.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\bin\Debug\Virtual NULL Modem.exe.manifest
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\bin\Debug\Virtual NULL Modem.application
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\bin\Debug\Virtual NULL Modem.exe
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\bin\Debug\Virtual NULL Modem.pdb
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\bin\Debug\Virtual NULL Modem.xml
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\Virtual NULL Modem.exe.manifest
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\Virtual NULL Modem.application
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\Virtual NULL Modem.exe
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\Virtual NULL Modem.xml
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\virtual_null_modem\virtual_null_modem\obj\Debug\Virtual NULL Modem.pdb

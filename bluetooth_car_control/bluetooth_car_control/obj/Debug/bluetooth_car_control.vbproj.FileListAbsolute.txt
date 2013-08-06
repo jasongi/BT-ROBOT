@@ -1,0 +1,14 @@
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\bin\Debug\Bluetooth Car Control Center.exe
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\bin\Debug\Bluetooth Car Control Center.pdb
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\bin\Debug\Bluetooth Car Control Center.xml
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\bluetooth_car_control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\Bluetooth Car Control Center.exe
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\Bluetooth Car Control Center.xml
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\Bluetooth Car Control Center.pdb
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\bin\Debug\Bluetooth Car Control Center.exe.manifest
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\bin\Debug\Bluetooth Car Control Center.application
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\Bluetooth Car Control Center.exe.manifest
+C:\Documents and Settings\Eirik\My Documents\Visual Studio 2008\Projects\bluetooth_car_control\bluetooth_car_control\obj\Debug\Bluetooth Car Control Center.application
